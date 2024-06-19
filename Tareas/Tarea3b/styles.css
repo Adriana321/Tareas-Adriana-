@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #de7cbd;
+    color: #333;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #ef8ad9;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Estilos para el contenido principal */
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #0056b3;
+}
+
+/* Estilos para enlaces */
+a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #9e2473;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.center {
+    text-align: center;
+}
+
+.center img {
+    display: block; /* Hace que la imagen sea un bloque */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
+.box-pink {
+    background-color: #f7a8b8; /* Cambia el color de fondo del cuadro a rosado */
+    padding: 20px; /* Añade espacio alrededor del contenido dentro del cuadro */
+    border-radius: 10px; /* Agrega bordes redondeados al cuadro */
+}
